@@ -6,4 +6,4 @@ Keras employed to produce a deep NN model.
 
 R code for data cleaning and Python code for W2V training and LSTM training.
 
-This is my Master Thesis topic and my thesis with methology included.
+This is my Master Thesis topic and my thesis with methology and explanation is included.
